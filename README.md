@@ -1,1 +1,1 @@
-# frontend_nodejs_default_sample
+# frontend_vanillajs_default_sample
